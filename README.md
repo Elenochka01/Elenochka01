@@ -1,7 +1,30 @@
-## Hi there 👋
+<h1>Hi, I'm Elena! <br/><a href="https://github.com/Elenochka01">Software Development Engineer in Test (SDET)</a>, <a href="https://www.linkedin.com/in/elena-odnodvortseva/">Selenium Professional</a>
+
+<h2>👨‍💻 Automation Test Projects:</h2>
+
+- <b>Java</b>
+  - [CPB](http)
+  - - [CPB](http)
+    - - [CPB](http)
+- <b>Basic Wabe pages</b>
+  - [HTML](https://elenochka01.github.io/website/) <b>
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [H](https:/)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/elenaulyana0123/
+[linkedin]: https://www.linkedin.com/in/elena-odnodvortseva/
 
 <!--
-**Elenochka01/Elenochka01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
