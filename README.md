@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elena! <br/><a href="https://github.com/Elenochka01">Quality Assurance Automation Engineer</a>, <a href="https://www.linkedin.com/in/elena-odnodvortseva/">Selenium Professional</a><a>SQL Fan</a>
+<h1>Hi, I'm Elena! <br/><a href="https://github.com/Elenochka01">Quality Assurance Automation Engineer</a>, <a href="https://www.linkedin.com/in/elena-odnodvortseva/">Selenium Professional</a>,<a>SQL Fan</a>
 
 <h2>👨‍💻 Automation Test Projects:</h2>
 
