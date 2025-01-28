@@ -6,10 +6,11 @@
   - [CPB](http)
   - [CPB](http)
   - [CPB](http)
-<h2>👨‍💻 Basic Wabe page</h2>
+<h2>👨‍💻 Basic Wabe pages</h2>
 
   - [HTML](https://elenochka01.github.io/website/) <b>
   - [Bakery](https://elenochka01.github.io/Bakery/) <b>
+  - [Apartment](https://elenochka01.github.io/Apartment/) <b>
 
 
 <h2>📺 Popular YouTube Videos</h2>
