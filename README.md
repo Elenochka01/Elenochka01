@@ -6,7 +6,7 @@
   - [CPB](http)
   - [CPB](http)
   - [CPB](http)
-<h2>👨‍💻 Basic Wabe pages</h2>
+<h2>👨‍💻 Basic Web pages</h2>
 
   - [HTML](https://elenochka01.github.io/website/) <b>
   - [Bakery](https://elenochka01.github.io/Bakery/) <b>
