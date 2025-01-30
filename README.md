@@ -45,8 +45,8 @@
 ---  
 
 ### 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?ElenaOdnodvortseva=YourGitHubUsername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ElenaOdnodvortseva=YourGitHubUsername&layout=compact&theme=radical)  
 
 ---  
 
@@ -58,11 +58,6 @@
 [instagram]: https://www.instagram.com/elenaulyana0123/
 [linkedin]: https://www.linkedin.com/in/elena-odnodvortseva/
 [telegram]:https://t.me/Elena_Odnodvortseva
-
-
----  
-
-⭐ **Feel free to explore my repositories and connect with me!** 🚀
 
 
 
