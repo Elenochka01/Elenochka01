@@ -25,34 +25,28 @@
 
 ---  
 
+### 📌 Featured Projects  
+🚀 **[Project 1 Name](GitHub Repository Link)** – *Short description (e.g., Selenium automation framework for web testing, using Java and TestNG).*  
+📊 **[Project 2 Name](GitHub Repository Link)** – *Short description (e.g., API testing framework using RestAssured and Postman).*  
+📝 **[Project 3 Name](GitHub Repository Link)** – *Short description (e.g., Basic HTML/CSS portfolio page).*  
+
+---  
+
+### 📈 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+
+---  
+
+### 📬 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn URL)  
+📩 **Email:** [Your Email]  
+🌐 **Portfolio:** [Your Portfolio (if any)]  
+
+---  
+
+⭐ **Feel free to explore my repositories and connect with me!** 🚀
 
 
-<h1>Hi, I'm Elena! <br><a href="https://github.com/Elenochka01">Quality Assurance Automation Engineer</a>, <a href="https://www.linkedin.com/in/elena-odnodvortseva/">Selenium Professional</a>, <br><a href="https://www.linkedin.com/in/elena-odnodvortseva/">SQL Fan</a>, <a href="https://www.linkedin.com/in/elena-odnodvortseva/">API Explorer</a>, <a href="https://www.linkedin.com/in/elena-odnodvortseva/">HTML Expert</a>
 
-<h2>👨‍💻 Automation Test Projects </h2>
-
-- <b>Java</b>
-  - [CPB](http)
-    
-<h2>👨‍💻 Basic HTML/CSS Web pages</h2>
-
-  - [My Portfolio](https://elenochka01.github.io/website/) <b>
-  - [Bakery](https://elenochka01.github.io/Bakery/) <b>
-  - [Apartment](https://elenochka01.github.io/Apartment/) <b>
-  - [CPA](https://elenochka01.github.io/CPA/) <b>
-  - [LAW](https://elenochka01.github.io/Law/) <b>
-  - [My Favorite TV Shows](https://elenochka01.github.io/MyFavoriteMovies/) <b>
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-<h2> 🤳 Connect with me </h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JoshMadakor | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-[instagram]: https://www.instagram.com/elenaulyana0123/
-[linkedin]: https://www.linkedin.com/in/elena-odnodvortseva/
-[telegram]:https://t.me/Elena_Odnodvortseva
 
