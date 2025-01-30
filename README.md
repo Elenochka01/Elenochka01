@@ -1,3 +1,18 @@
+### Hi there! 👋 I'm [Your Name]  
+**QA Automation Engineer | Software Tester | Tech Enthusiast**  
+
+---  
+
+### 🚀 About Me  
+- 🎯 Passionate about **QA Automation & Software Testing**
+- 💻 Skilled in **Selenium, Java, TestNG, Cucumber, Cypress, and REST API testing**
+- 📊 Experienced in **manual & automated testing of web-based applications**
+- 🎓 **Master’s in Computer Science**
+- 🔍 Constantly learning new tools & best practices in testing
+
+
+
+
 <h1>Hi, I'm Elena! <br><a href="https://github.com/Elenochka01">Quality Assurance Automation Engineer</a>, <a href="https://www.linkedin.com/in/elena-odnodvortseva/">Selenium Professional</a>, <br><a href="https://www.linkedin.com/in/elena-odnodvortseva/">SQL Fan</a>, <a href="https://www.linkedin.com/in/elena-odnodvortseva/">API Explorer</a>, <a href="https://www.linkedin.com/in/elena-odnodvortseva/">HTML Expert</a>
 
 <h2>👨‍💻 Automation Test Projects </h2>
