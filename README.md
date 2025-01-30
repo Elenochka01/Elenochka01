@@ -47,8 +47,10 @@
 [linkedin]: https://www.linkedin.com/in/elena-odnodvortseva/
 [telegram]:https://t.me/Elena_Odnodvortseva
 
+---  
 
 ⭐ **Feel free to explore my repositories and connect with me!** 🚀
+
 
 
 
