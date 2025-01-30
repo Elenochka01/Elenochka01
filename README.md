@@ -1,5 +1,5 @@
 ### <h1>Hi there! 👋 I'm Elena! </h1> 
-**QA Automation Engineer | Software Tester | Tech Enthusiast**  
+**<h2>QA Automation Engineer | Software Tester | Tech Enthusiast<h2>**  
 
 ---  
 
@@ -22,7 +22,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---  
 
@@ -40,11 +39,14 @@
 ---  
 
 ### 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn URL)  
-📩 **Email:** [Your Email]  
-🌐 **Portfolio:** [Your Portfolio (if any)]  
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
----  
+[instagram]: https://www.instagram.com/elenaulyana0123/
+[linkedin]: https://www.linkedin.com/in/elena-odnodvortseva/
+[telegram]:https://t.me/Elena_Odnodvortseva
+
 
 ⭐ **Feel free to explore my repositories and connect with me!** 🚀
 
