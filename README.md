@@ -1,11 +1,11 @@
-### Hi there! 👋 I'm [Your Name]  
+### <h1>Hi there! 👋 I'm Elena! </h1> 
 **QA Automation Engineer | Software Tester | Tech Enthusiast**  
 
 ---  
 
 ### 🚀 About Me  
 - 🎯 Passionate about **QA Automation & Software Testing**
-- 💻 Skilled in **Selenium, Java, TestNG, Cucumber, Cypress, and REST API testing**
+- 💻 Skilled in **Selenium, Java, TestNG, MySQL, Apache JMeter and REST API testing**
 - 📊 Experienced in **manual & automated testing of web-based applications**
 - 🎓 **Master’s in Computer Science**
 - 🔍 Constantly learning new tools & best practices in testing
@@ -17,11 +17,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---  
 
