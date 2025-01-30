@@ -4,20 +4,17 @@
 
 - <b>Java</b>
   - [CPB](http)
-  - [CPB](http)
-  - [CPB](http)
-<h2>👨‍💻 Basic Web pages</h2>
+    
+<h2>👨‍💻 Basic HTML/CSS Web pages</h2>
 
-  - [HTML](https://elenochka01.github.io/website/) <b>
+  - [My Portfolio](https://elenochka01.github.io/website/) <b>
   - [Bakery](https://elenochka01.github.io/Bakery/) <b>
   - [Apartment](https://elenochka01.github.io/Apartment/) <b>
   - [CPA](https://elenochka01.github.io/CPA/) <b>
+  - [LAW](https://elenochka01.github.io/Law/) <b>
 
 
 <h2>📺 Popular YouTube Videos</h2>
-
-- [H](https:/)
-
 
 <h2> 🤳 Connect with me </h2>
 
