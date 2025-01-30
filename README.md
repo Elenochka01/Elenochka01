@@ -1,5 +1,5 @@
-### <h1>Hi there! 👋 I'm Elena! </h1> 
-**<h2>QA Automation Engineer | Software Tester | Tech Enthusiast<h2>**  
+### Hi there! 👋 I'm Elena!
+**QA Automation Engineer | Software Tester | Tech Enthusiast**  
 
 ---  
 
@@ -25,10 +25,22 @@
 
 ---  
 
-### 📌 Featured Projects  
-🚀 **[Project 1 Name](GitHub Repository Link)** – *Short description (e.g., Selenium automation framework for web testing, using Java and TestNG).*  
-📊 **[Project 2 Name](GitHub Repository Link)** – *Short description (e.g., API testing framework using RestAssured and Postman).*  
-📝 **[Project 3 Name](GitHub Repository Link)** – *Short description (e.g., Basic HTML/CSS portfolio page).*  
+### 👨‍💻 Automation Test Projects 
+
+- <b>Java</b>
+  - [CPB](http)
+    
+---  
+
+### 📌 Basic HTML/CSS Web pages 
+
+  - [My Portfolio](https://elenochka01.github.io/website/) <b>
+  - [Bakery](https://elenochka01.github.io/Bakery/) <b>
+  - [Apartment](https://elenochka01.github.io/Apartment/) <b>
+  - [CPA](https://elenochka01.github.io/CPA/) <b>
+  - [LAW](https://elenochka01.github.io/Law/) <b>
+  - [My Favorite TV Shows](https://elenochka01.github.io/MyFavoriteMovies/) <b>
+
 
 ---  
 
@@ -46,6 +58,7 @@
 [instagram]: https://www.instagram.com/elenaulyana0123/
 [linkedin]: https://www.linkedin.com/in/elena-odnodvortseva/
 [telegram]:https://t.me/Elena_Odnodvortseva
+
 
 ---  
 
