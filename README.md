@@ -28,7 +28,7 @@
 ### 👨‍💻 Automation Test Projects 
 
 - <b>Java</b>
-  - [CPB](http)
+  - [3 testing scenarios for a web form](https://github.com/Elenochka01/ThreeScenarios)
     
 ---  
 
