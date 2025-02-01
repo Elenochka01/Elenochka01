@@ -7,7 +7,7 @@
 - 🎯 Passionate about **QA Automation & Software Testing**
 - 💻 Skilled in **Selenium, Java, TestNG, MySQL, Apache JMeter and REST API testing**
 - 📊 Experienced in **manual & automated testing of web-based applications**
-- 🎓 **Master’s Degree**,Computer Science and Mathematics
+- 🎓 **Master’s Degree**, Computer Science and Mathematics
 - 🔍 Constantly learning new tools & best practices in testing
   
 ---  
