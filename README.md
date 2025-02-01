@@ -36,7 +36,6 @@
 
   - [My Portfolio](https://elenochka01.github.io/website/)
   - [Bakery](https://elenochka01.github.io/Bakery/)
-  - [Apartment](https://elenochka01.github.io/Apartment/)
   - [CPA](https://elenochka01.github.io/CPA/)
   - [LAW](https://elenochka01.github.io/Law/)
   - [My Favorite TV Shows](https://elenochka01.github.io/MyFavoriteMovies/)
@@ -44,9 +43,8 @@
 ---  
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elenochka01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elenochka01&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elenochka01&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elenochka01&show_icons=true&theme=radical&cache_seconds=3600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elenochka01&layout=compact&theme=radical&cache_seconds=3600)
 
 ---  
 
