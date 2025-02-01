@@ -34,12 +34,12 @@
 
 ### 📌 Basic HTML/CSS Web pages 
 
-  - [My Portfolio](https://elenochka01.github.io/website/) <b>
-  - [Bakery](https://elenochka01.github.io/Bakery/) <b>
-  - [Apartment](https://elenochka01.github.io/Apartment/) <b>
-  - [CPA](https://elenochka01.github.io/CPA/) <b>
-  - [LAW](https://elenochka01.github.io/Law/) <b>
-  - [My Favorite TV Shows](https://elenochka01.github.io/MyFavoriteMovies/) <b>
+  - [My Portfolio](https://elenochka01.github.io/website/)
+  - [Bakery](https://elenochka01.github.io/Bakery/)
+  - [Apartment](https://elenochka01.github.io/Apartment/)
+  - [CPA](https://elenochka01.github.io/CPA/)
+  - [LAW](https://elenochka01.github.io/Law/)
+  - [My Favorite TV Shows](https://elenochka01.github.io/MyFavoriteMovies/)
 
 ---  
 
