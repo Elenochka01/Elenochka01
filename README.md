@@ -43,12 +43,6 @@
 
 ---  
 
-### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elenochka01&show_icons=true&theme=radical&cache_seconds=3600)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elenochka01&layout=compact&theme=radical&cache_seconds=3600)
-
----  
-
 ### 📬 Connect with Me  
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
