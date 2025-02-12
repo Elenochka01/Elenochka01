@@ -28,8 +28,9 @@
 ### 👨‍💻 Automation Test Projects 
 
 - <b>Java</b>
+  - [Framework from scratch](https://github.com/Elenochka01/Framework)
   - [3 testing scenarios for a web form](https://github.com/Elenochka01/ThreeScenarios)
-    
+
 ---  
 
 ### 📌 Basic HTML/CSS Web pages 
